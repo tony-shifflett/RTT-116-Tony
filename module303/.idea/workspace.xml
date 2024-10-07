@@ -5,9 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6305184-d557-4e87-af7c-0b721f6c66c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ScannerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Welcome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/perscholas/SecondClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework303_1/DemoReplaceAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework303_1/TestStringComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework303_1/TestStringComparison2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework303_1/TestStringComparison3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework303_2_1/ArithmeticOperatorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework303_2_1/AssignmentOperatorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework303_2_1/BitwiseOperatorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework303_2_1/LogicalOperatorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework303_2_1/RelationalOperatorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework303_2_1/TernaryOperatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework303_2_1/UnaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework303_2_2/AutoPromoteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework303_2_2/AutoTypeConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework303_2_2/ExplicitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimitiveTypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/perscholas/WrapperClassExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +38,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2mtByB8V3N4GOmkd2mAQq6iqBVa" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,8 +52,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DemoReplaceAll.executor": "Run",
     "Application.Main.executor": "Run",
-    "Application.ScannerExample.executor": "Debug",
+    "Application.PrimitiveTypeCasting.executor": "Run",
+    "Application.ScannerExample.executor": "Run",
     "Application.SecondClass.executor": "Run",
     "Application.Welcome.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -54,7 +69,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DemoReplaceAll">
+    <configuration name="DemoReplaceAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework303_1.DemoReplaceAll" />
+      <module name="module303" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework303_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ScannerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ScannerExample" />
       <module name="module303" />
@@ -64,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoReplaceAll" />
         <item itemvalue="Application.ScannerExample" />
       </list>
     </recent_temporary>
@@ -84,7 +113,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727886244668</updated>
-      <workItem from="1727886245783" duration="9650000" />
+      <workItem from="1727886245783" duration="12432000" />
+      <workItem from="1728030625445" duration="7985000" />
     </task>
     <servers />
   </component>
