@@ -1,4 +1,4 @@
-package Homework303_9_2;
+package GLAB303_9_2;
 
 public class Hospital {
     public static void main(String[] args) {
