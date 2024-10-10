@@ -5,20 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6305184-d557-4e87-af7c-0b721f6c66c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Homework303_5_1/LoopDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework303_5_1/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework303_5_1/Pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework303_5_1/SumNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework303_5_2/GuessTheNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework303_5_2/MathTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework303_6_1/ArrayDemoThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_5_1/TaskOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_5_1/TaskThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_5_1/TaskTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/module304/IfStatementExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/module304/LoopExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework303_7_1/TaskOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework303_7_1/TaskThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework303_7_1/TaskTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework303_9_1/EncapsulationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework303_9_1/HumanBeing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework303_9_2/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework303_9_2/Hospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework303_9_2/Surgeon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/M303_8/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimitiveTypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimitiveTypeCasting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +46,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.DemoReplaceAll.executor": "Run",
+    "Application.EncapsulationExample.executor": "Run",
+    "Application.Homework303_7_1.TaskOne.executor": "Run",
+    "Application.Hospital.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PrimitiveTypeCasting.executor": "Run",
     "Application.ScannerExample.executor": "Run",
@@ -129,7 +128,7 @@
       <workItem from="1727886245783" duration="12432000" />
       <workItem from="1728030625445" duration="11817000" />
       <workItem from="1728325682968" duration="5044000" />
-      <workItem from="1728454080737" duration="4657000" />
+      <workItem from="1728454080737" duration="9366000" />
     </task>
     <servers />
   </component>
