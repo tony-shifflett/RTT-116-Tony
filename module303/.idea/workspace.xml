@@ -5,34 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6305184-d557-4e87-af7c-0b721f6c66c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/PA303_7_1/Task4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_1/DemoReplaceAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_3_1/DemoReplaceAll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_1/TestStringComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_3_1/TestStringComparison.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_1/TestStringComparison2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_3_1/TestStringComparison2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_1/TestStringComparison3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_3_1/TestStringComparison3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_2_1/ArithmeticOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_2_1/ArithmeticOperatorsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_2_1/AssignmentOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_2_1/AssignmentOperatorsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_2_1/BitwiseOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_2_1/BitwiseOperatorsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_2_1/LogicalOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_2_1/LogicalOperatorsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_2_1/RelationalOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_2_1/RelationalOperatorsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_2_1/TernaryOperatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_2_1/TernaryOperatorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_2_1/UnaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_2_1/UnaryOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_2_2/AutoPromoteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_2_2/AutoPromoteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_2_2/AutoTypeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_2_2/AutoTypeConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_2_2/ExplicitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_2_2/ExplicitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_5_1/LoopDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_5_1/LoopDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_5_1/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_5_1/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_5_1/Pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_5_1/Pyramid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_5_1/SumNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_5_1/SumNums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_5_2/GuessTheNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_5_2/GuessTheNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_5_2/MathTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_5_2/MathTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_6_1/ArrayDemoThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_6_1/ArrayDemoThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_6_1/MeanSDArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_6_1/MeanSDArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_7_1/TaskOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PA303_7_1/TaskOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_7_1/TaskThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PA303_7_1/TaskThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_7_1/TaskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PA303_7_1/TaskTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_9_1/EncapsulationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_9_1/EncapsulationExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_9_1/HumanBeing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_9_1/HumanBeing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PA303_7_1/TaskOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PA303_7_1/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PA303_7_1/TaskThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PA303_7_1/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PA303_7_1/TaskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PA303_7_1/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +53,7 @@
     "Application.SecondClass.executor": "Run",
     "Application.Task1.executor": "Run",
     "Application.Task2.executor": "Run",
+    "Application.Task3.executor": "Run",
     "Application.Task3and4.executor": "Run",
     "Application.Task4.executor": "Run",
     "Application.Task5.executor": "Run",
@@ -158,7 +136,7 @@
       <workItem from="1727886245783" duration="12432000" />
       <workItem from="1728030625445" duration="11817000" />
       <workItem from="1728325682968" duration="5044000" />
-      <workItem from="1728454080737" duration="31142000" />
+      <workItem from="1728454080737" duration="33468000" />
     </task>
     <servers />
   </component>

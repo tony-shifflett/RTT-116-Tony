@@ -1,6 +1,6 @@
 package PA303_7_1;
 
-public class TaskOne {
+public class Task1 {
     public static void main(String[] args) {
         int[] demoArray = new int[3];
 

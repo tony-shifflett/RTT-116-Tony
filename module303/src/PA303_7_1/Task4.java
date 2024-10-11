@@ -1,8 +1,7 @@
 package PA303_7_1;
 
-public class TaskTwo {
+public class Task4 {
     public static void main(String[] args) {
-        int[] arr = {13, 5, 7, 68, 2};
-
+        int[] arr = new int[5];
     }
 }
