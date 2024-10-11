@@ -5,38 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6305184-d557-4e87-af7c-0b721f6c66c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoffeeShop/CoffeeShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoffeeShop/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/M303_8/AreaCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/M303_8/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/M303_8/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_2_1/AddDoubles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_2_1/AddIntAndDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_2_1/AddInts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_2_1/CastToDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_2_1/DeclaredConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_2_1/DoubleDivisionCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_2_1/IntDivision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_2_1/ThreeVar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_2_3/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_2_3/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_2_3/Task3and4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_2_3/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_2_3/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_2_3/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_4_1/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_4_1/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_4_1/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_4_1/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_4_1/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_4_1/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_4_1/Task7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_7_1/TaskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework303_7_1/TaskTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_9_2/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_9_2/Doctor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_9_2/Hospital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_9_2/Hospital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework303_9_2/Surgeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_9_2/Surgeon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_1/DemoReplaceAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_3_1/DemoReplaceAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_1/TestStringComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_3_1/TestStringComparison.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_1/TestStringComparison2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_3_1/TestStringComparison2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_1/TestStringComparison3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_3_1/TestStringComparison3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_2_1/ArithmeticOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_2_1/ArithmeticOperatorsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_2_1/AssignmentOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_2_1/AssignmentOperatorsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_2_1/BitwiseOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_2_1/BitwiseOperatorsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_2_1/LogicalOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_2_1/LogicalOperatorsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_2_1/RelationalOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_2_1/RelationalOperatorsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_2_1/TernaryOperatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_2_1/TernaryOperatorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_2_1/UnaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_2_1/UnaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_2_2/AutoPromoteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_2_2/AutoPromoteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_2_2/AutoTypeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_2_2/AutoTypeConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_2_2/ExplicitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_2_2/ExplicitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_5_1/LoopDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_5_1/LoopDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_5_1/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_5_1/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_5_1/Pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_5_1/Pyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_5_1/SumNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_5_1/SumNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_5_2/GuessTheNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_5_2/GuessTheNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_5_2/MathTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_5_2/MathTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_6_1/ArrayDemoThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_6_1/ArrayDemoThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_6_1/MeanSDArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_6_1/MeanSDArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_7_1/TaskOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PA303_7_1/TaskOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_7_1/TaskThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PA303_7_1/TaskThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_7_1/TaskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PA303_7_1/TaskTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_9_1/EncapsulationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_9_1/EncapsulationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework303_9_1/HumanBeing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_9_1/HumanBeing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +158,7 @@
       <workItem from="1727886245783" duration="12432000" />
       <workItem from="1728030625445" duration="11817000" />
       <workItem from="1728325682968" duration="5044000" />
-      <workItem from="1728454080737" duration="25858000" />
+      <workItem from="1728454080737" duration="31142000" />
     </task>
     <servers />
   </component>
