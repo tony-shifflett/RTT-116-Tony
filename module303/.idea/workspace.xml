@@ -5,11 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6305184-d557-4e87-af7c-0b721f6c66c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PA303_7_1/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GLAB303_10_1/Boy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GLAB303_10_1/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GLAB303_10_1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GLAB303_10_1/TestPeople.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GLAB303_10_2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GLAB303_10_2/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GLAB303_10_2/MyRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GLAB303_10_2/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GLAB303_10_2/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GLAB303_10_2/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GLAB303_10_3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GLAB303_10_3/MyRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GLAB303_10_3/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GLAB303_10_3/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GLAB303_10_3/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GLAB303_10_4/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PA303_7_1/TaskOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PA303_7_1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PA303_7_1/TaskThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PA303_7_1/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PA303_7_1/TaskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PA303_7_1/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +84,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -136,7 +149,7 @@
       <workItem from="1727886245783" duration="12432000" />
       <workItem from="1728030625445" duration="11817000" />
       <workItem from="1728325682968" duration="5044000" />
-      <workItem from="1728454080737" duration="33468000" />
+      <workItem from="1728454080737" duration="42880000" />
     </task>
     <servers />
   </component>
