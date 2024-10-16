@@ -1,3 +1,5 @@
+package GLAB303_10_2;
+
 public class Shape {
     private String color;
     protected double area = 1.0;

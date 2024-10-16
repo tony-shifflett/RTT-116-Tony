@@ -1,3 +1,5 @@
+package GLAB303_10_3;
+
 public class Triangle extends Shape {
 
     public Triangle(){}

@@ -1,3 +1,5 @@
+package GLAB303_10_1;
+
 public class Boy extends Person {
     static double   ageFactor = 1.1;
 

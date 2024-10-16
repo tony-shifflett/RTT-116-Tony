@@ -1,4 +1,6 @@
-public class myRunner {
+package GLAB303_10_3;
+
+public class MyRunner {
     public static void main(String[] args) {
 
         Circle c = new Circle(100);

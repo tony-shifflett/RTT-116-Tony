@@ -1,3 +1,6 @@
+package GLAB303_10_3;
+
+
 public  class Rectangle extends Shape {
 
     public Rectangle(String color) {

@@ -1,3 +1,5 @@
+package GLAB303_10_4;
+
 public abstract class Shape {
     protected String color;
     protected double height;  // To hold height.

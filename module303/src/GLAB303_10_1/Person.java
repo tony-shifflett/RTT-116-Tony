@@ -1,3 +1,5 @@
+package GLAB303_10_1;
+
 public class Person {
     String         name;
     static int     lifeSpan = 60;
