@@ -5,35 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6305184-d557-4e87-af7c-0b721f6c66c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../PracticeFX/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeFX/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeFX/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeFX/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_10_1/FireMonster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_10_1/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_10_1/StoneMonster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_10_1/TestMonster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PA303_10_1/WaterMonster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GLAB303_10_1/Boy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_10_1/Boy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GLAB303_10_1/Girl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_10_1/Girl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GLAB303_10_1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_10_1/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GLAB303_10_1/TestPeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_10_1/TestPeople.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GLAB303_10_2/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_10_2/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GLAB303_10_2/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_10_2/Cylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GLAB303_10_2/MyRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_10_2/MyRunner" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GLAB303_10_2/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_10_2/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GLAB303_10_2/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_10_2/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GLAB303_10_2/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_10_2/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GLAB303_10_3/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_10_3/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GLAB303_10_3/MyRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_10_3/MyRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GLAB303_10_3/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_10_3/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GLAB303_10_3/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_10_3/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GLAB303_10_3/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_10_3/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GLAB303_10_4/CIrcle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_10_4/CIrcle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GLAB303_10_4/Movable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_10_4/Movable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GLAB303_10_4/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_10_4/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GLAB303_10_4/myRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GLAB303_10_4/myRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PA303_10_3/AdultUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PA303_10_3/KidUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PA303_10_3/LibraryInterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PA303_10_3/LibraryUser.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +75,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
@@ -185,7 +161,7 @@
       <workItem from="1727886245783" duration="12432000" />
       <workItem from="1728030625445" duration="11817000" />
       <workItem from="1728325682968" duration="5044000" />
-      <workItem from="1728454080737" duration="45418000" />
+      <workItem from="1728454080737" duration="51229000" />
     </task>
     <servers />
   </component>
