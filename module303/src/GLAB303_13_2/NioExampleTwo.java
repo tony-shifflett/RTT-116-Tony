@@ -9,7 +9,7 @@ public class NioExampleTwo{
         // TODO Auto-generated method stub
 
         //Input files
-        String[] inputFiles = {"src/GLAB303_13_2/file1.txt", "GLAB303_13_2/file2.txt"};
+        String[] inputFiles = {"src/GLAB303_13_2/file1.txt", "src/GLAB303_13_2/file2.txt"};
 
         //Files contents will be written in these files
         String outputFile = "src/GLAB303_13_2/OutputExampleTwo.txt";

@@ -7,8 +7,8 @@ public class NioExample {
     public static void main(String[] args) throws IOException
     {
         // initializing two files in Array;
-        String[] inputFiles = {"C:/Downloads/file1.txt",
-                "C:/Downloads/file2.txt"};
+        String[] inputFiles = {"src/GLAB303_13_2/file1.txt",
+                "src/GLAB303_13_2/file2.txt"};
 
         // Specify out file with path location
 //Files contents will be written in these files
