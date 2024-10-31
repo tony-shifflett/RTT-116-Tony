@@ -1,6 +1,7 @@
 package CoffeeShop;
 
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class CoffeeShop {
@@ -12,7 +13,7 @@ public class CoffeeShop {
         printProductMenu();
     }
 
-    private ArrayList<Product> products = new ArrayList<>();
+    private List<Product> products = new ArrayList<>();
 
     private void initProducts(){
         Product p1 = new Product("Small Coffee", 4.57, 0);
